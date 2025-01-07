@@ -160,7 +160,7 @@ const styles = {
         padding: "1rem",
         backgroundColor: "#f9f9f9",
         borderRadius: "8px",
-        boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+        boxShadow: "0 4px 6px rgba(255, 255, 255, 0.1)",
     },
     field: {
         display: "flex",
